@@ -1,0 +1,9 @@
+{
+  "contest": "FairSide contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "Constant defined multiple times",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2021-05-fairside-findings/issues/9"
+}
