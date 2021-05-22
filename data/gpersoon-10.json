@@ -1,0 +1,9 @@
+{
+  "contest": "FairSide contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "0",
+  "title": "non existing function returns",
+  "issueId": 10,
+  "issueUrl": "https://github.com/code-423n4/2021-05-fairside-findings/issues/10"
+}
