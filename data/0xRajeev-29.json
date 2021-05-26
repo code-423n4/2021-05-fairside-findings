@@ -1,0 +1,9 @@
+{
+  "contest": "FairSide contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "3",
+  "title": "Locked funds are debited twice from user during tokenization leading to fund loss",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2021-05-fairside-findings/issues/29"
+}
