@@ -1,0 +1,9 @@
+{
+  "contest": "FairSide contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Lack of input validation to enforce some minimum threshold on governanceThreshold",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2021-05-fairside-findings/issues/22"
+}
