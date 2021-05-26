@@ -1,0 +1,9 @@
+{
+  "contest": "FairSide contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Whitelist signatures can be replayed on contract redeployments on same/different chains",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2021-05-fairside-findings/issues/24"
+}
