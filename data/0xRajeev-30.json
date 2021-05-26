@@ -1,0 +1,9 @@
+{
+  "contest": "FairSide contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "3",
+  "title": "Locked funds from tokenization are credited twice to user leading to protocol fund loss",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2021-05-fairside-findings/issues/30"
+}
