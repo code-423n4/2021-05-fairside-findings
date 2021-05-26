@@ -1,0 +1,9 @@
+{
+  "contest": "FairSide contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Conviction totals not updated during tokenization",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2021-05-fairside-findings/issues/28"
+}
