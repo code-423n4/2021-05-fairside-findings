@@ -1,0 +1,9 @@
+{
+  "contest": "FairSide contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "3",
+  "title": "Conviction scoring fails to initialize and bootstrap",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2021-05-fairside-findings/issues/26"
+}
