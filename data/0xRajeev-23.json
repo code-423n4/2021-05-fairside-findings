@@ -1,0 +1,9 @@
+{
+  "contest": "FairSide contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "setConvictionless can be front-run to prevent conviction reset",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2021-05-fairside-findings/issues/23"
+}
